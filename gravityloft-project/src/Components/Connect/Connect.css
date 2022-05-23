@@ -1,0 +1,104 @@
+.connect{
+    background: #F8F8F8;
+    display: flex;
+    justify-content: space-around;
+  padding: 100px 0px 200px 0px;
+}
+.left-connect{
+    width: 45%;
+    font-family: 'Work Sans';
+}
+.left-connect-heading{
+    left: 7.81%;
+    right: 53.28%;
+    top: 5.35%;
+    bottom: 90.22%;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 80px;
+    /* or 125% */
+    
+    letter-spacing: -0.02em;
+    
+    background: linear-gradient(92.84deg, #5746EC -34.59%, #F55656 93.19%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+   
+}
+.left-connect-heading1{
+    left: 7.81%;
+    right: 53.28%;
+    top: 5.35%;
+    bottom: 90.22%;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 80px;
+    /* or 125% */
+    
+    letter-spacing: -0.02em;
+    
+   color: black;
+    
+}
+.left-connect-text{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+/* or 136% */
+
+letter-spacing: -0.02em;
+width: 65%;
+color: #202020;
+}
+.right-connect{
+    background: #FFFFFF;
+border: 1px solid rgba(233, 220, 220, 0.2);
+
+box-shadow: 0px 10px 6px rgba(180, 212, 221, 0.2);
+border-radius: 18px;
+height: 400px;
+}
+.right-connect>div>p{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 45px;
+
+
+text-align: center;
+
+color: #000000;
+}
+.right-connect>div{
+ margin:0px 20%;
+}
+.label{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #666666;
+}
+.input{
+    width: 90%;
+    outline: 0;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 10px;
+}
+.form{
+    margin: 0px 5%;
+}
