@@ -17,7 +17,7 @@ function Faq() {
     const [expanded6, setExpanded6] = useState(true);
   return (
     <div className='faq'>
-    <br/>
+    <br/><br/>
     <div className='Faq-heading'>FAQ</div>
     <div className='faq-para'>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</div>
     <br/>
@@ -29,7 +29,7 @@ function Faq() {
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
-          <Typography className='typo'><b>What is Techrefic ?</b></Typography>
+          <Typography  padding="5px" className='typo'><b>What is Techrefic ?</b></Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography color="#5C5F62">
@@ -43,7 +43,7 @@ function Faq() {
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography className='typo'><b>What is Techrefic ?</b></Typography>
+          <Typography  padding="5px" className='typo'><b>What is Techrefic ?</b></Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography color="#5C5F62">
@@ -58,7 +58,7 @@ function Faq() {
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography><b>What is Techrefic ?</b></Typography>
+          <Typography padding="5px"><b>What is Techrefic ?</b></Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography color="#5C5F62">
@@ -72,7 +72,7 @@ function Faq() {
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography><b>What is Techrefic ?</b></Typography>
+          <Typography padding="5px"><b>What is Techrefic ?</b></Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography color="#5C5F62">
@@ -86,7 +86,7 @@ function Faq() {
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography><b>What is Techrefic ?</b></Typography>
+          <Typography padding="5px"><b>What is Techrefic ?</b></Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography color="#5C5F62">
@@ -100,7 +100,7 @@ function Faq() {
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography><b>What is Techrefic ?</b></Typography>
+          <Typography padding="5px"><b>What is Techrefic ?</b></Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography color="#5C5F62">
@@ -114,7 +114,7 @@ function Faq() {
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography><b>What is Techrefic ?</b></Typography>
+          <Typography padding="5px"><b>What is Techrefic ?</b></Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography color="#5C5F62">
@@ -125,6 +125,7 @@ function Faq() {
 
       
     </div>
+    <br/><br/><br/>
     </div>
   )
 }

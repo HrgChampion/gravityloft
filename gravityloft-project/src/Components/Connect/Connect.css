@@ -102,3 +102,14 @@ color: #666666;
 .form{
     margin: 0px 5%;
 }
+.form-btn{
+background: #5746EC;
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+border-radius: 8px;
+border: 0;
+color: white;
+margin-top: 20px;
+width: 96%;
+font-size: 18px;
+padding: 10px;
+}
