@@ -6,7 +6,7 @@ function Experts() {
   return (
     <div className='experts'>
         <h1>Expert Cloud</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+        <p className='expert-para'>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 
         <div className='experts-div'>
             <div className='experts-div-left'>
@@ -54,6 +54,7 @@ function Experts() {
             </div>
 
         </div>
+        <br/>
     </div>
   )
 }

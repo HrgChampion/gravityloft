@@ -1,0 +1,43 @@
+.faq{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Faq-heading{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 82px;
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+}
+.faq-para{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+
+text-align: center;
+
+color: #5C5F62;
+}
+
+.typo{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 30px;
+
+color: #000000;
+}
+.Accordian{
+    width: 70%;
+
+}
