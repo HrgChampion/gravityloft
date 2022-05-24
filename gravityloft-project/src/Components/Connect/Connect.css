@@ -145,3 +145,8 @@ padding: 10px;
 
     
 }
+@media screen and (max-width: 380px){
+    .connect{
+        width: 100%;
+    }
+}

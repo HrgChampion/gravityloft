@@ -164,3 +164,24 @@ width: 55%;
         margin-left: 20%;
     }
 }
+@media screen and (max-width: 380px){
+    .experts{ 
+        width: 100%;
+    }
+    .experts-div,.consult-div,.collaborate-div{
+        width:370px;
+        height: 450px;
+    }
+    .experts-div-left,.consult-div-right{
+        width:50%;
+    }
+
+ .experts-div-right,.consult-div-left{
+        width:50%;
+    }
+    .search-heading,.search-heading-black{
+        font-size: 21px;
+        line-height: 25px;
+        width:200px ;
+    }
+}

@@ -108,3 +108,19 @@ color: #012333;
         width: 133px;
     }
 }
+@media screen and (max-width: 380px){
+    .upper-footer>img{
+       
+        width: 100%;
+    }
+    .footer{
+        width: 100%;
+    }
+    .lower-right>div{
+    width: 80px;
+    } 
+    .lower-right>div>h5,.lower-right>div p{
+        font-size: 16px;
+    }
+
+}
