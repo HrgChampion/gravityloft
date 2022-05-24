@@ -71,3 +71,14 @@ color: #5746EC;
       gap:10px;
   }
 }
+@media screen and (max-width: 380px){
+    .header-buttons{
+        gap:5px;
+    }
+    .header{
+        gap: 5px;
+       }
+       .text,.container,.outline{
+        width: 80px;
+       }
+}
