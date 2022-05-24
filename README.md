@@ -1,10 +1,12 @@
 # gravityloft
 Gravityloft assignment
 
-Commands to run-
-cd 
-npm install for node_modules
-npm run dev for run
+Commands to run -
+ cd 
+ 
+ npm install for node_modules
+ 
+ npm run dev for run
 
 # Getting Started with Create React App
 
