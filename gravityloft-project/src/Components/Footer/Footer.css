@@ -73,3 +73,38 @@ line-height: 21px;
 
 color: #012333;
 }
+@media screen and (max-width: 821px){
+    .footer{
+        width: 70%;
+     
+       
+     }
+     .upper-footer>img{
+        margin: 0px 1% 0px 1%;
+        width: 89%;
+    }
+    .lower-footer-first{
+        margin-left: 1%;
+    }
+    .line{
+        
+        margin-left:0%;
+    }
+    .copyright{
+        margin-left:5%;   
+    }
+    .lower-left>p{
+    width: 100px;
+    }
+    .lower-right{
+        gap:5px;
+        margin-left:0%;
+    }
+    .lower-right>div>h5,.lower-right>div p{
+        font-size: 18px;
+    }
+    .lower-right>div{
+    
+        width: 133px;
+    }
+}

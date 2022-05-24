@@ -40,7 +40,7 @@
     font-weight: 600;
     font-size: 64px;
     line-height: 80px;
-    /* or 125% */
+  
     
     letter-spacing: -0.02em;
     
@@ -53,7 +53,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 22px;
 line-height: 30px;
-/* or 136% */
 
 letter-spacing: -0.02em;
 width: 65%;
@@ -112,4 +111,37 @@ margin-top: 20px;
 width: 96%;
 font-size: 18px;
 padding: 10px;
+}
+@media screen and (max-width: 821px){
+    .connect{
+        width: 90%;
+        padding: 0px;
+        display: flex;
+        padding: 10px 0px 10px 0px;
+        gap: 0px;
+        justify-content: flex-start;
+       
+    }
+
+    .right-connect{
+        width: 280px;
+        margin: 0px;
+    }
+    .left-connect-heading, .left-connect-heading1{
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .right-connect>div>p{
+  
+    font-size: 25px;
+    line-height: 35px;
+    }
+    .right-connect>div{
+        margin:0px 0%;
+       }
+    .left-connect{
+        width:200px;
+    }
+
+    
 }

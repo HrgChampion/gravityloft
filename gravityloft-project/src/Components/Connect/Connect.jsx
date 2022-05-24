@@ -10,6 +10,7 @@ function Connect() {
 <br/>
 <div className='left-connect-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</div>
     </div>
+    
     <div className='right-connect'>
     <div>
         <p>Get Trial version 

@@ -108,3 +108,59 @@ width: 55%;
     border-radius: 5px;
   
 }
+@media screen and (max-width: 821px){
+    .experts{
+        width: 90%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .experts-div,.consult-div,.collaborate-div{
+        display: flex;
+        
+        width: 100%;
+        height: 400px;
+        
+    
+    }
+    .experts-div-left,.consult-div-right{
+width: 55%;
+    }
+    .experts-div-left,.consult-div-right,.experts-div-right,.consult-div-left{
+        
+        width:35%;
+       
+    }
+    .left-inside{
+        width: 80%;
+        margin: 20px 10px;
+    }
+    .search-heading,.search-heading-black{
+        font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 31px;
+    
+    }
+    .expert-img{
+        padding: 10px 2px 0px 12px;
+          height: 90%;
+          width: 88%;
+      }
+      .expert-para{
+
+    font-size: 15px;
+    line-height: 20px;
+    margin-left: 10%;
+
+    }
+    .experts-h1{
+        
+        font-size: 40px;
+        line-height: 52px;
+        margin-left: 20%;
+    }
+}

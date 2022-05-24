@@ -53,3 +53,21 @@ color: #5746EC;
 .logo{
     margin: 10px 30px;
 }
+@media screen and (max-width: 821px){
+   .header{
+    display: flex;
+    
+    justify-content: flex-start;
+    gap: 20px;
+   }
+   .logo{
+       margin: 10px 0px 10px 10px;
+   }
+  .text,.container,.outline{
+      width: 100px;
+      height: 30px;
+  }
+  .header-buttons{
+      gap:10px;
+  }
+}
