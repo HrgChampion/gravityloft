@@ -2,6 +2,7 @@
 Gravityloft assignment
 
 Commands to run -
+
  cd 
  
  npm install for node_modules
